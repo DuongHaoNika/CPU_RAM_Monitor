@@ -1,0 +1,17 @@
+.cpu-ram-div{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+.cpu-ram-div p{
+    font-family: "Apple SD Gothic Neo";
+    font-size: 32px;
+}
+
+.cpu-img{
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
